@@ -1,16 +1,18 @@
-# 🥠 Biscoito da Sorte  
+# 📌 Cálculo de IMC
 
-Um projeto simples e interativo onde o usuário abre um biscoito da sorte e recebe uma mensagem motivacional aleatória.  
+Este projeto é uma aplicação web simples que calcula o Índice de Massa Corporal (IMC) do usuário com base no peso e altura inseridos. O resultado é exibido em um modal interativo. 
 
 ## 🚀 Tecnologias Utilizadas  
 - **HTML**: Estrutura da página  
 - **CSS**: Estilização (adicionar futuramente)  
-- **JavaScript**: Manipulação do DOM e lógica do jogo  
+- **JavaScript (ES6)**: Lógica de cálculo e manipulação do DOM
 
 ## 📌 Funcionalidades  
-✅ Exibe um biscoito fechado na tela inicial  
-✅ Ao clicar, exibe uma frase de sorte aleatória  
-✅ Permite abrir outro biscoito para gerar uma nova mensagem  
+✔️ Entrada de peso (kg) e altura (cm)
+✔️ Cálculo do IMC
+✔️ Exibição do resultado em um modal
+✔️ Mensagem de alerta para valores inválidos
+✔️ Responsivo para diferentes dispositivos 
 
 ## 🛠 Como executar o projeto  
 
