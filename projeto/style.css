@@ -98,6 +98,10 @@ main p {
   max-width: 100%;
 }
 
+.screen1 figure button {
+  border-radius: 50%;
+}
+
 .screen1 button  {
   border: none;
 }
