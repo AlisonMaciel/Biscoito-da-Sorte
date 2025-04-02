@@ -16,7 +16,7 @@
 @keyframes start {
   from {
     opacity: 0.5;
-    transform: translateY(190px) scale(0.4);
+    transform: translateY(190px) scale(0.1);
   }
 }
 
