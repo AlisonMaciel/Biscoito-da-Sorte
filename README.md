@@ -19,4 +19,4 @@ Um projeto simples e interativo onde o usuário abre um biscoito da sorte e rece
 <img src="https://i.imgur.com/0Im7OV3.png"/>
 <img src="https://i.imgur.com/NDTjA8j.png"/>
 
-🔗 [Acesse o Biscoito da sorte](https://trytoguessthenumbers.netlify.app/)
+🔗 [Acesse o Biscoito da sorte](https://fortunecookiee.netlify.app/)
